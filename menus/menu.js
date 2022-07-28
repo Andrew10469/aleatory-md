@@ -11,7 +11,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╰──────────
 ╎
 ╎⩺ Hey frocio, benvenuto nel menù
-╎⩺ Bot fatto apposta per guarire la tua omosessualità
+╎⩺ Bot fatto apposta per guarire la tua  omosessualità
 ╎
 ╎⩺ https://github.com/Andrew10469/aleatory-md
 ╎⩺ Seguimi su tt: http://tiktok.com/@andre..000._
