@@ -9,7 +9,7 @@ return `
 ╎
 ┝ ⎙  Menu Dono
 ╎
-╎⩺  Info de como configurar o Bot> Digite: 
+╎⩺  Info di come configurare un bot: 
 ╎
 ╎⩺  ${prefix}configurar-bot
 ╎
