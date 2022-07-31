@@ -6,7 +6,7 @@ const adms = (prefix) => {
 	
 ╭───────────────
 ╎
-┝  ⎙ Menu De Administradores
+┝  ⎙ *Menu degli amministratori*
 ╎
 ╰──────────
 ╎
