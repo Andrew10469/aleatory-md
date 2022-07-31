@@ -5,7 +5,7 @@ SÓ DEVO LEMBRAR QUE O TERMUX DA PLAY STORE NÃO PRESTA, ENTÃO INSTALE O 118 PO
 > aleatoryapi.herokuapp.com 
 
 
-Comandos Básicos do termux, nescessario para inicialização do bot:
+Comandi basici di termux necessario per l'avvio di un bot 
 
 
 - _1 COMANDO :
