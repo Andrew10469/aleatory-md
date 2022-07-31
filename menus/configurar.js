@@ -6,7 +6,7 @@ return `
  
  Primeiro ligue o bot no termux, e vá para o WhatsApp do bot em algum privado, utilize os seguintes comandos.
 
-╭───────────────
+╭═•ೋ๑〘🌸〙๑ೋ•═╮
 
 
 ⏣➣ Pra alterar o nome do bot :
@@ -16,23 +16,22 @@ return `
 ⏣➣  Pode por letras modificadas também 🙂
 
 
-╰───────────────
+╰═•ೋ☆〘🌸〙☆ೋ•═╯
 
 
 
-╭───────────────
-
+╭═•ೋ๑〘🌸〙๑ೋ•═╮
 
 ⏣➣  Nick Do Dono Do Bot :
 
 ⏣➣  ${prefix}nick-dono Nick seu
 
 
-╰───────────────
+╰═•ೋ☆〘🌸〙☆ೋ•═╯
   
   
   
-╭───────────────  
+╭═•ೋ๑〘🌸〙๑ೋ•═╮ 
   
   
 ⏣➣  Configurar o número do dono  
@@ -41,11 +40,10 @@ return `
 
 ⏣➣  o número tem que ser junto, e não pode conter o símbolo de + nem - e não pode ter o 9 da operadora, tem que ser o número idêntico ao seu do whatsapp.
   
-  
-╰───────────────
+╰═•ೋ☆〘🌸〙☆ೋ•═╯ 
 
 
-╭───────────────
+╭═•ೋ๑〘🌸〙๑ೋ•═╮ 
 
 
 ⏣➣  Prefixo Do Bot :
@@ -55,7 +53,7 @@ return `
 Pode por qualquer símbolo, se o seu símbolo for ${prefix} ele vai passar a ser # de acordo com o que você mudou.
 
 
-╰───────────────
+╰═•ೋ☆〘🌸〙☆ೋ•═╯
 
 
 
