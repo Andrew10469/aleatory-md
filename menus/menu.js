@@ -12,10 +12,10 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╭═•ೋ๑〘🌸〙๑ೋ•═╮
 ╎
 ╎⩺ Hey frocio, benvenuto nel menù
-╎⩺ Bot fatto apposta per guarire la   tua omosessualità
+╎⩺ Bot fatto apposta per guarirti
 ╎
-╎⩺ Entra quà per guarire in poco tempo
-╎⩺ https://chat.whatsapp.com/FW3L5D5kWf3CofVun41usu
+╎⩺ Void è un ghei 
+╎⩺ Hera non sa sloggare
 ╎
 ┝━〢⎙ CMD/TERMUX
 ╎
