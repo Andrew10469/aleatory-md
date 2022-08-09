@@ -11,12 +11,12 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╰═•ೋ☆〘🌸〙☆ೋ•═╯
 ╭═•ೋ๑〘🌸〙๑ೋ•═╮
 ╎
-╎⩺ Hey senzapalle
-╎⩺ benvenuto nel menu
-╎⩺ karim nigga
-╎⩺ Vare ghei
-╎⩺ Void memazzo
-╎⩺ Hera randomina
+╎⩺ *Hey ${numerodn}*
+╎⩺ *benvenuto nel menu*
+╎⩺ *sei gay??*
+╎⩺ *Vare ghei*
+╎⩺ *Hera randomina*
+╎⩺ *se spammi ban*
 ╎
 ┝━〢⎙ CMD/TERMUX
 ╎
