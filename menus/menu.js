@@ -14,8 +14,8 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╎⩺ *Hey🌸 ${user}*
 ╎⩺ *benvenuto nel menu🌸*
 ╎⩺ *Data: ${date}*
-╎⩺ *Vare ghei🌸*
-╎⩺ *Hera randomina🌸*
+╎⩺ *random🌸*
+╎⩺ *random🌸*
 ╎⩺ *se spammi ban🌸*
 ╎
 ┝━〢⎙ *Comandi termux*
